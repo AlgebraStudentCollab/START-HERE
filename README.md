@@ -37,7 +37,7 @@
 
 ## Comunity
 
-- We have a discord server. This should be your first stop to talk with other Algebra students. Why don't you introduce yourself right now? [Join the AlgebraStudents Discord](https://discord.gg/[]).
+- We have a discord server. This should be your first stop to talk with other Algebra students. Why don't you introduce yourself right now? [Join the AlgebraStudents Discord](https://discord.gg/sRX3yKJWYM).
 - You can also interact through GitHub issues. If there is a problem with a course, this is the place to start the conversation.
 - Note: This is an repository run by **students** for **studens**. There might be things done the wrong way, things that don't work or things that are unmaintained or deprecated. We try our best to keep things tidy!
 
